@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/team_cersei/static/css/main.94562c19.chunk.css",
+    "main.js": "/team_cersei/static/js/main.b3d71581.chunk.js",
+    "main.js.map": "/team_cersei/static/js/main.b3d71581.chunk.js.map",
+    "runtime-main.js": "/team_cersei/static/js/runtime-main.5fd12037.js",
+    "runtime-main.js.map": "/team_cersei/static/js/runtime-main.5fd12037.js.map",
+    "static/js/2.c5159ec8.chunk.js": "/team_cersei/static/js/2.c5159ec8.chunk.js",
+    "static/js/2.c5159ec8.chunk.js.map": "/team_cersei/static/js/2.c5159ec8.chunk.js.map",
+    "static/js/3.a1702ddf.chunk.js": "/team_cersei/static/js/3.a1702ddf.chunk.js",
+    "static/js/3.a1702ddf.chunk.js.map": "/team_cersei/static/js/3.a1702ddf.chunk.js.map",
+    "index.html": "/team_cersei/index.html",
+    "static/css/main.94562c19.chunk.css.map": "/team_cersei/static/css/main.94562c19.chunk.css.map",
+    "static/js/2.c5159ec8.chunk.js.LICENSE.txt": "/team_cersei/static/js/2.c5159ec8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/team_cersei/static/media/bg.a484ba43.png",
+    "static/media/logo.cd12c775.png": "/team_cersei/static/media/logo.cd12c775.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fd12037.js",
+    "static/js/2.c5159ec8.chunk.js",
+    "static/css/main.94562c19.chunk.css",
+    "static/js/main.b3d71581.chunk.js"
+  ]
+}
